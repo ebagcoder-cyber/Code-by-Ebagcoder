@@ -23,4 +23,12 @@
 </div>
 
 *You can put any of the things in the list bellow inside the <> where the p is*
-*Div class list. h1,h2,h3,h4,h5,h6,p*
+*Div class list: h1,h2,h3,h4,h5,h6,p*
+
+*You can also change the style of any of the items from the div class list*
+*Note all of text that use the text that uses the tag you change will be changed*
+
+h1 {
+  
+}
+*I do not recomend doing this*
