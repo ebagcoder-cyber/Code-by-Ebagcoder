@@ -1,0 +1,39 @@
+*This code will add a footer to you webpage*
+*You can use images or text*
+*Make sure you link you css pages to your html files*
+*Paste the code bellow into a css file*
+.social-icons {
+  text-align: center;
+  }  
+.social-icons li {
+  display:inline-block;
+  list-style-type:none;
+  }
+.social-icons li a {
+  border-bottom: none;
+  }
+.social-icons li img {
+  width:30px;
+  height:30px;
+  margin-right: 20px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: gray;
+   color: #ffffff;
+   text-align: center;
+}
+
+*Paste the code bellow at the bottom of your html file*
+*For a image remove the If text put here*
+*For text remove the <img src='path to image' />*
+*You can add as many sections to your footer*
+
+<ul class="social-icons">
+    <li><a href="Paste link here"><img src='If image path to image' />If text put text</a></li>
+</ul>
+</footer>
