@@ -1,0 +1,35 @@
+*This will create a top navbar for your website*
+You can change up the colors and the font as much as you want*
+*Paste the code below into a Css file*
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: gray;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+
+li a:hover {
+  background-color: #C9C9C9;
+}
+
+
+*Paste the code bellow in you html file above the rest of your code*
+<ul>
+  <li><a class="active" href="Filename.html">Some text here</a></li>
+</ul>
+*You can put as many links to other html files below the first one*
