@@ -1,0 +1,5 @@
+*Paste the code bellow at the top of your html file* 
+ 
+ <link rel = "stylesheet"
+   type = "text/css"
+   href = "filename.css"/>
