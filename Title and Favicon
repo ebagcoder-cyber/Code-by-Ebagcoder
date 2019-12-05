@@ -1,0 +1,3 @@
+*Paste the code bellow at the top of your html file*
+<link rel='icon' href='favicon.ico' type='image/x-icon'/ >
+<title>Page title here</title>
