@@ -1,2 +1,2 @@
-# Html-and-Css-Code
-Find Html and Css code to use for you website!
+# Code-by-Ebagcoder
+Find Code projects you can use for many things
